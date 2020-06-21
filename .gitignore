@@ -1,0 +1,7 @@
+*.dll
+*.exe
+/.ionide/
+/lib/
+connection.json
+.DS_Store
+

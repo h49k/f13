@@ -1,0 +1,8 @@
+{
+    "to": "to@example.com",
+    "from": "from@example.com",
+    "user": "user@example.com",
+    "pass": "passwoed",
+    "port": 587,
+    "server": "mail.example.com"
+}
